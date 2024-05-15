@@ -20,6 +20,7 @@ public class Run {
         System.out.println("summarization_mode: " + sumMode);
         System.out.println();
 
+        
         final SummaryGraphModule module;
 
         if (sumMode.compareTo("mosso") == 0) {
