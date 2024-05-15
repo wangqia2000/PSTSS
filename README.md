@@ -21,7 +21,7 @@ LiveJournal：https://snap.stanford.edu/data/com-LiveJournal.html
 If you use this code as part of any published research, please consider acknowledging our paper.
 
 ```
-@inproceedings{ko2020incremental,
+@inproceedings{SEKE2023,
   title={An Efficient Lossless Graph Summarization Method for Large Streaming Graphs},
   author={Wang Q, Wang Y, Wang Y.},
   DOI reference number ={10.18293/SEKE2023-107},
