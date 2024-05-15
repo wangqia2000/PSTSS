@@ -1,0 +1,10 @@
+## Compilation 
+1. Require OpenJDK12 or greater be installed in the system and set in PATH
+2. type ./compile.sh
+## Input File Fromat
+A file in txt format, where each line represents an edge.
+Each line contains three numbers, representing the node number, the node number, and the addition, separated by tabs.
+## Output
+The output file contains information about supernodes (S), superedges (P) and correc- tions (C+, C−). 
+## Run
+./compile.sh input_path output_path mcmc interval
