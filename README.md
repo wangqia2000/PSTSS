@@ -22,9 +22,9 @@ If you use this code as part of any published research, please consider acknowle
 
 ```
 @inproceedings{ko2020incremental,
-  title={Incremental Lossless Graph Summarization},
-  author={Ko, Jihoon and Kook, Yunbum and Shin, Kijung},
-  booktitle={ACM SIGKDD International Conference on Knowledge Discovery and Data Mining},
-  year={2020},
+  title={An Efficient Lossless Graph Summarization Method for Large Streaming Graphs},
+  author={Wang Q, Wang Y, Wang Y.},
+  DOI reference number ={10.18293/SEKE2023-107},
+  year={2023},
 }
 ```
