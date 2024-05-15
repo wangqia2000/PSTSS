@@ -1,7 +1,7 @@
 # PSTSS: An Efficient Lossless Graph Summarization Method for Large Streaming Graphs
 Source code for PSTSS, described in the paper [An Efficient Lossless Graph Summarization Method for Large Streaming Graphs), SEKE2023
 
-**PSTSS** (**Mo**ve if **S**aved, **S**tay **o**thewise) is an algorithm for lossless summarization of fully dynamic graphs. **PSTSS** has the following advantages:
+**PSTSS**  is an algorithm for lossless summarization of streaming graphs. **PSTSS** has the following advantages:
 * *Efficient** Lossless Graph Summarization Algorithm We propose PSTSS for lossless graph summarization. With linear scalability, PSTSS summarizes large-scale graph faster and achieves better compression than the state-of-the-art graph summarization method.
 * *Scalable**: summarizing graphs with hundreds of millions of edges, requiring sublinear memory during the process.
 * *Effective**: Extensive Experiments We confirmed that PSTSS out- performs 3 state-of-the-art graph summarization algo- rithms on 6 real graphs in different domains.
