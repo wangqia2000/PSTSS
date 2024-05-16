@@ -12,7 +12,7 @@ echo [DEMO] running Simple
 echo [DEMO] running PSTSS
 ./run.sh example_graph.txt PSTSSM.txt mcmc 1000 > output/PSTSS.log
 
-echo [DEMO] running SGreedy
+echo [DEMO] running LDG
 ./run.sh example_graph.txt Greedy.txt sgreedy 1000 > output/Greedy.log
 
 echo [FINISHED] The results and logs are stored in the "output" folder.
