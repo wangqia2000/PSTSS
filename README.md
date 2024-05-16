@@ -7,7 +7,7 @@ Source code for PSTSS, described in the paper [An Efficient Lossless Graph Summa
 * *Extensive Experiments* *: Extensive Experiments We confirmed that PSTSS out- performs 3 state-of-the-art graph summarization algo- rithms on 6 real graphs in different domains.
 
 ## Building and Running **PSTSS**
-Please see [User Guide](user_guide.pdf)
+Please see [User Guide]
 ## Datasets and Contributors
 The datasets used in the paper：
 Protein：https://snap.stanford.edu/biodata/datasets/10000/10000-PP-Pathways.html
