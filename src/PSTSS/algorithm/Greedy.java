@@ -1,4 +1,8 @@
 package mosso.algorithm;
+from pyspark import SparkContext
+from pyspark.sql import SparkSession
+from pyspark.sql import Row
+from graphframes import GraphFrame
 
 
 import it.unimi.dsi.fastutil.ints.Int2IntMap;
@@ -9,7 +13,7 @@ import mosso.SupernodeHelper;
 
 import static java.lang.Long.min;
 
-public class MoSSoGreedy extends SupernodeHelper {
+public class Greedy extends SupernodeHelper {
     private int iteration = 0;
     private IntOpenHashSet sn = new IntOpenHashSet();
 
@@ -17,7 +21,7 @@ public class MoSSoGreedy extends SupernodeHelper {
     private long costCounter = 0;
     private long start;
 
-    public MoSSoGreedy(boolean directed, int _interval){
+    public Greedy(boolean directed, int _interval){
         super(directed);
         interval = _interval;
         start = System.currentTimeMillis();
