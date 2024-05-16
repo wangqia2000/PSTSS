@@ -1,8 +1,5 @@
 package mosso.algorithm;
-from pyspark import SparkContext
-from pyspark.sql import SparkSession
-from pyspark.sql import Row
-from graphframes import GraphFrame
+//using LDG（贪婪）
 
 
 import it.unimi.dsi.fastutil.ints.Int2IntMap;
