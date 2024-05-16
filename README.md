@@ -23,7 +23,7 @@ If you use this code as part of any published research, please consider acknowle
 ```
 @inproceedings{SEKE2023,
   title={An Efficient Lossless Graph Summarization Method for Large Streaming Graphs},
-  author={Wang Q, Wang Y, Wang Y.},
+  author={Wang Qia, Wang Yi, Wang Ying},
   DOI reference number ={10.18293/SEKE2023-107},
   year={2023},
 }
